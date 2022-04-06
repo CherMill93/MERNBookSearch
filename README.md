@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MERNBookSearch
 
 # Description
@@ -14,6 +13,3 @@ Activate client folder with `npm start` and navigate to [http://localhost:3000] 
 # Deployment
 Heroku:
 Pages: https://chermill93.github.io/MERNBookSearch/
-=======
-# MERNBookSearch
->>>>>>> e4a9dbf67451c3d7ea6dd92a20293685f4b6f5a8
