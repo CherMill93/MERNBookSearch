@@ -40,5 +40,13 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "# Description A book search engine relying on Google Books API to provide the user with any and all published texts.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CherMill93/MERNBookSearch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CherMill93/MERNBookSearch/issues"
+  },
+  "homepage": "https://github.com/CherMill93/MERNBookSearch#readme"
 }
